@@ -1,0 +1,7 @@
+Step 1: Create a Telegram Bot
+
+Open Telegram and search for the BotFather.
+Start a chat with the BotFather and use the command /start.
+Create a new bot using the command /newbot.
+Follow the prompts to set the bot's name and username.
+Save the bot token provided by the BotFather. This token will be used to interact with the Telegram Bot API.
