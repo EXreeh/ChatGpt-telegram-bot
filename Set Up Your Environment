@@ -1,0 +1,5 @@
+Step 2: Set Up Your Environment
+
+Install Python (if not already installed). You can download it from python.org.
+
+Install the required libraries:  pip install python-telegram-bot openai
