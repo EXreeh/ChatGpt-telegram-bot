@@ -1,0 +1,4 @@
+OpenAI API Setup: The script initializes the OpenAI API key to interact with GPT-3.
+Telegram Bot Initialization: The bot is initialized using the token provided by BotFather.
+Handlers: Handlers for /start, /help, and text messages are set up. The handle_message function sends user messages to the OpenAI API and returns the responses.
+Running the Bot: The main function starts the bot and keeps it running until manually stopped.
